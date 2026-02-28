@@ -1,7 +1,8 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 .service-card {
   text-align: center;
   font-size: 1.5rem;
+  cursor: pointer;
 }
